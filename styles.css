@@ -1,0 +1,77 @@
+.body {
+    margin: 0%;
+    width: 100%;
+    background-color:  rgb(245, 212, 245);
+}
+
+.header img {
+    width: 100%;
+    height: 100px;   
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.container1 {
+    background-color: rgb(248, 186, 248);
+}
+
+.col-md-1 img {
+    width: 80px; 
+    height: 80px; 
+    margin-top: 16px;
+    margin-left: 20px;
+}
+
+.text-left {
+    width:100%; 
+    margin-bottom:0px; 
+    margin-top: 25px;
+}
+
+.col-md-2 img {
+    width: 30px; 
+    height: 30px; 
+    margin-left: 180px;
+}
+
+.col-md-3 {
+    margin-top: 50px;
+}
+
+.parr {
+    padding-left: 20px;
+}
+
+.p1 {
+    text-align: justify;
+    padding-left: 20px;
+}
+
+.col-sm-4 img {
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.footer {
+    background-image: url("https://i.stack.imgur.com/AZ2Xw.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: -119px;
+    width: 100%;
+    height: 200px; 
+    }
+
+.container2 {
+    padding-top: 100px;
+    font-family: Comic Sans MS;
+}
+
+#tabla2 {
+    margin-left: 20px;
+}
